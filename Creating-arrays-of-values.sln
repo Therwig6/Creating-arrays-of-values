@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating-arrays-of-values", "Creating-arrays-of-values\Creating-arrays-of-values.csproj", "{D0F14152-3150-4912-9063-55D35F9A381D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F14152-3150-4912-9063-55D35F9A381D}.Debug|x86.ActiveCfg = Debug|x86
+		{D0F14152-3150-4912-9063-55D35F9A381D}.Debug|x86.Build.0 = Debug|x86
+		{D0F14152-3150-4912-9063-55D35F9A381D}.Release|x86.ActiveCfg = Release|x86
+		{D0F14152-3150-4912-9063-55D35F9A381D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
